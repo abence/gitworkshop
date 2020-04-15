@@ -3,3 +3,5 @@ chips
 avocado
 2kg krumpli
 viz
+sor
+tojas
