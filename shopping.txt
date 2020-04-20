@@ -5,3 +5,8 @@ avocado
 viz
 sor
 tojas
+
+wc
+panir
+liszt
+eleszto
