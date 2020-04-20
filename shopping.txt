@@ -1,6 +1,5 @@
 whiskey
 chips
-avocado
 2kg krumpli
 viz
 sor
@@ -10,3 +9,5 @@ wc
 panir
 liszt
 eleszto
+fertotlenito
+konyerv kaja
